@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* **[MainPage.xaml](./CS/E3916/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/E3916/MainPage.xaml.vb))**
+* **[MainPage.xaml](./CS/E3916/MainPage.xaml) (VB: [MainPage.xaml](./VB/E3916/MainPage.xaml))**
 * [MainPage.xaml.cs](./CS/E3916/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/E3916/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to use an image from application resources in a DXPrinting template
