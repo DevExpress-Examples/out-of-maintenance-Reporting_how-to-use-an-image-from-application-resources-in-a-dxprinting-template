@@ -5,6 +5,9 @@
 * [MainPage.xaml.cs](./CS/E3916/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/E3916/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to use an image from application resources in a DXPrinting template
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3916)**
+<!-- run online end -->
 
 
 <p>When using an image from resources inside a DXPrinting template, your first move might be to write something like this:</p><br />
